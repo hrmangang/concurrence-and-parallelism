@@ -1,4 +1,3 @@
 # Concurrent and parallel computing
 
-
-Implementation of concurrent and parallel computing in various languages
+This repository will host codes for concurrent programming and parallel programming in various languages.
